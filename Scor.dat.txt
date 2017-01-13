@@ -1,4 +1,0 @@
-hector 100
-elena 150
-Laura 2000
-mama 2000

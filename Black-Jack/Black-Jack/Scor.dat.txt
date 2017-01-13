@@ -1,0 +1,5 @@
+hector 1500
+elena 1200
+Ilie 3000
+Mini 400
+mama 6000
